@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there i'm André Cavalcante👋
+    🎓 I study Computer Science at the university of Fortaleza.
+    
+    📚 I'm learning how to become Full-Stack at a programming school.
+                    (https://digitalcollege.com.br/)
+    
+    💻 My experience:
+       -JS
+       -HTML
+       -CSS
+       -PYTHON
+       -JAVA
 
-<!--
-**AndreCavalcaante/AndreCavalcaante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Contact:
+    Discord; dedeinthehouse
+    
