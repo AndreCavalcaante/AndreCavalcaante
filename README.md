@@ -1,15 +1,19 @@
 ### Hi there i'm André Cavalcante👋
     🎓 I study Computer Science at the university of Fortaleza.
     
-    📚 I'm learning how to become Full-Stack at a programming school.
-                    (https://digitalcollege.com.br/)
+    📚 I'm improving my knowledge of Process Automation in Python
     
     💻 My experience:
-       -JS
-       -HTML
-       -CSS
        -PYTHON
        -JAVA
+       -Selenium
+       -SQL
+
+    📚I'm learning data science and improving my skills.
+
+    
+       
+       
 
     Contact:
     Discord; dedeinthehouse
